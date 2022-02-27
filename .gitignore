@@ -1,0 +1,16 @@
+*.user
+
+.vs/
+packages/
+
+**/bin/*
+**/obj/*
+/_ReSharper.Caches/*
+**/.idea/*
+venv/
+*.DotSettings
+*.nupkg
+*.pyc
+*.exe
+/CreatioDataServiceClient/FodyWeavers.xml
+/CreatioDataServiceClient/FodyWeavers.xsd
